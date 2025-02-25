@@ -1,0 +1,21 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run OpenGL Project",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/main.exe",
+            "cwd": "${workspaceFolder}",
+            "MIMode": "gdb",
+            "externalConsole": false,
+            "setupCommands": [
+                {
+                    "text": "-enable-pretty-printing",
+                    "description": "Enable GDB pretty printing",
+                    "ignoreFailures": true
+                }
+            ]
+        }
+    ]
+}
