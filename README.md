@@ -6,6 +6,6 @@ OpenGL / FreeGLUT
 
 # Building
 
-'''
+```
 g++ main.cpp map.cpp agent.cpp -o main.exe -lfreeglut -lglu32 -lopengl32
-'''
+```
