@@ -1,2 +1,2 @@
 # RLLLM
-Using LLMs to optimize RL algorithms
+Using LLMs to optimize Reinforcement Learning algorithms
