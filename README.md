@@ -2,7 +2,7 @@
 Using LLMs to optimize Reinforcement Learning algorithms
 
 # Requirements
-OpenGL / FreeGLUT 
+OpenGL / FreeGLUT DLLs
 
 # Building
 
